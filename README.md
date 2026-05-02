@@ -1,22 +1,64 @@
-<h1 align="center">My name is Ethan Dechant</h1>
-<h3 align="center">I'm a creative and critical-thinking individual who's seeking software/embedded systems employment.</h3>
+# Hi, I'm Ethan Dechant 👋
 
-- 🏫 I'm currently going to school for **Computer Science**
+![Typing SVG](https://demolab.com)
 
-- 🔭 I'm currently working on [Sending Binary File remote using RF radios](TBD)
+### I specialize in bridging the gap between hardware and software. I am currently focused on bare-metal firmware development (C/C++), peripheral driver implementation, and real-time system design.
 
-- 📫 How to reach me **ethandechant22@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 About Me
+- 🎖️ **US Marine Corps Veteran:** Former NCO (3rd LAR) with a focus on leadership and mission-critical reliability.
+- 🛠️ **Hardware-First Mindset:** 6+ years of hands-on experience in industrial maintenance and equipment repair before transitioning to software.
+- 🏫 Currently studying **Computer Science**
+- 🔭 Working on: **[Remote Binary File Transfer via RF Radios](https://github.com)**
+- 🌱 Specialized in bridging the gap between hardware and software.
+- 💬 Ask me about: **Bare-metal C/C++, RTOS, or Peripheral Drivers.**
+
+---
+
+### 🛠 Technical Stack
+**Languages & Core Tech**
 <p align="left">
-<a href="https://linkedin.com/in/ethan dechant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethan dechant" height="30" width="40" /></a>
+  <img src="https://skillicons.dev" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Other Skills:**
+* **Microcontrollers:** ARM, AVR
+* **Protocols:** I2C, SPI, UART
+* **Web/Tools:** Node.js, HTML/CSS, EasyEDA, Logic Analyzers
 
+---
+
+### 📂 Featured Projects
+
+#### 🔹 [I2C EEPROM Driver (Bare-Metal)](https://github.com)
+Implemented a register-level I2C driver for the AT24C02 EEPROM.
+* **Key Challenge:** Handled page-read timing and ACK polling based on datasheet specifications.
+* **Tech:** C++, I2C, Register Manipulation.
+
+#### 🔹 [SD Card Bootloader / SDU Implementation]
+Developing a custom protocol to handle firmware updates via SD card, focusing on robust error checking and flash memory management.
+
+---
+
+### 📊 GitHub Engineering Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TacTechGuy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TacTechGuy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://vercel.app" height="165" alt="stats graph"  />
+  <img src="https://vercel.app" height="165" alt="languages graph"  />
 </div>
+
+---
+
+### 📈 Activity & Impact
+- 🛠️ **Total Contributions:** Check out my activity graph below!
+- 🚀 **Top Languages:** C, C++, Python, Java
+
+[![TacTechGuy's GitHub Activity Graph](https://vercel.app)](https://github.com)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn Badge](https://shields.io)](https://www.linkedin.com/in/ethan-dechant/)
+[![Email Badge](https://shields.io)](mailto:ethandechant22@gmail.com)
 
