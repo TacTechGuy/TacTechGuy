@@ -1,64 +1,16 @@
-# Hi, I'm Ethan Dechant 👋
+# 💫 Hi, I'm Ethan Dechant
+### Embedded Systems & Firmware Developer
+- 🎖️ **US Marine Corps Veteran:** Former NCO (3rd LAR) with a focus on leadership and mission-critical reliability.<br>- 🛠️ **Hardware-First Mindset:** 6+ years of hands-on experience in industrial maintenance and equipment repair before transitioning to software.<br>- 🏫 Currently studying **Computer Science**<br>- 🔭 Working on: **[Remote Binary File Transfer via RF Radios](https://github.com)**<br>- 🌱 Specialized in bridging the gap between hardware and software.<br>- 💬 Ask me about: **Bare-metal C/C++, RTOS, or Peripheral Drivers.**
 
-![Typing SVG](https://demolab.com)
 
-### I specialize in bridging the gap between hardware and software. I am currently focused on bare-metal firmware development (C/C++), peripheral driver implementation, and real-time system design.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ethan-dechant/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ethandechant22@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=TacTechGuy&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=TacTechGuy&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TacTechGuy&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🚀 About Me
-- 🎖️ **US Marine Corps Veteran:** Former NCO (3rd LAR) with a focus on leadership and mission-critical reliability.
-- 🛠️ **Hardware-First Mindset:** 6+ years of hands-on experience in industrial maintenance and equipment repair before transitioning to software.
-- 🏫 Currently studying **Computer Science**
-- 🔭 Working on: **[Remote Binary File Transfer via RF Radios](https://github.com)**
-- 🌱 Specialized in bridging the gap between hardware and software.
-- 💬 Ask me about: **Bare-metal C/C++, RTOS, or Peripheral Drivers.**
-
----
-
-### 🛠 Technical Stack
-**Languages & Core Tech**
-<p align="left">
-  <img src="https://skillicons.dev" />
-</p>
-
-**Other Skills:**
-* **Microcontrollers:** ARM, AVR
-* **Protocols:** I2C, SPI, UART
-* **Web/Tools:** Node.js, HTML/CSS, EasyEDA, Logic Analyzers
-
----
-
-### 📂 Featured Projects
-
-#### 🔹 [I2C EEPROM Driver (Bare-Metal)](https://github.com)
-Implemented a register-level I2C driver for the AT24C02 EEPROM.
-* **Key Challenge:** Handled page-read timing and ACK polling based on datasheet specifications.
-* **Tech:** C++, I2C, Register Manipulation.
-
-#### 🔹 [SD Card Bootloader / SDU Implementation]
-Developing a custom protocol to handle firmware updates via SD card, focusing on robust error checking and flash memory management.
-
----
-
-### 📊 GitHub Engineering Stats
-<div align="center">
-  <img src="https://vercel.app" height="165" alt="stats graph"  />
-  <img src="https://vercel.app" height="165" alt="languages graph"  />
-</div>
-
----
-
-### 📈 Activity & Impact
-- 🛠️ **Total Contributions:** Check out my activity graph below!
-- 🚀 **Top Languages:** C, C++, Python, Java
-
-[![TacTechGuy's GitHub Activity Graph](https://vercel.app)](https://github.com)
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn Badge](https://shields.io)](https://www.linkedin.com/in/ethan-dechant/)
-[![Email Badge](https://shields.io)](mailto:ethandechant22@gmail.com)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
