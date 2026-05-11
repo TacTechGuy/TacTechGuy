@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Ethan Dechant
 ### Embedded Systems & Firmware Developer
-- 🎖️ **US Marine Corps Veteran:** Former NCO (3rd LAR) with a focus on leadership and mission-critical reliability.<br>- 🛠️ **Hardware-First Mindset:** 6+ years of hands-on experience in industrial maintenance and equipment repair before transitioning to software.<br>- 🏫 Currently studying **Computer Science**<br>- 🔭 Working on: **[Remote Binary File Transfer via RF Radios](https://github.com)**<br>- 🌱 Specialized in bridging the gap between hardware and software.<br>- 💬 Ask me about: **Bare-metal C/C++, RTOS, or Peripheral Drivers.**
+- 🎖️ **US Marine Corps Veteran:** Former NCO (3rd LAR) with a focus on leadership and mission-critical reliability.<br>- 🛠️ **Hardware-First Mindset:** 6+ years of hands-on experience in industrial maintenance and equipment repair before transitioning to software.<br>- 🏫 Currently studying **Computer Science**<br>- 🔭 Working on: **[Remote Binary File Transfer via RF Radios](https://github.com/TacTechGuy/SAMD21_RF95_FOTA_CLIENT)**<br>- 🌱 Specialized in bridging the gap between hardware and software.<br>- 💬 Ask me about: **Bare-metal C/C++, RTOS, or Peripheral Drivers.**
 
 
 ## 🌐 Socials:
